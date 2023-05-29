@@ -17,8 +17,8 @@
 
 4. Create Folder To use in S3 Bucket 
 - Create a `scripts` folder
-- Create a `customers` folder (We use this to upload a CSV to)
-- Create a `query-results` folder
+- Create a `Input` folder (We use this to upload a CSV to)
+- Create a `Output` folder
 - Upload files to folders
 
 
